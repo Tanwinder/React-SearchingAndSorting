@@ -7,8 +7,8 @@
     "start": "webpack-dev-server",
     "test": "mocha test"
   },
-  "author": "John Deere",
-  "license": "Copyright © 2017 singh security",
+  "author": "Singh Securtiy",
+  "license": "Copyright © 2017 Singh Security",
   "dependencies": {
     "isomorphic-fetch": "2.2.1",
     "react": "^16.0.0",
