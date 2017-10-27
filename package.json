@@ -1,14 +1,14 @@
 {
-  "name": "front-end-test",
+  "name": "React searching and sorting",
   "version": "1.0.0",
-  "description": "A test for prospective front-end developers",
+  "description": "searching and sorting list",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "mocha test"
   },
   "author": "John Deere",
-  "license": "Copyright © 2017 Deere & Company",
+  "license": "Copyright © 2017 singh security",
   "dependencies": {
     "isomorphic-fetch": "2.2.1",
     "react": "^16.0.0",
